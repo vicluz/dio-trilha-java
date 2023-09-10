@@ -1,3 +1,6 @@
 [submodule "desafio-conta-banco"]
 	path = desafio-conta-banco
 	url = https://github.com/vicluz/dio-trilha-java.git
+[submodule "desafio-controle-fluxo"]
+	path = desafio-controle-fluxo
+	url = ./desafio-controle-fluxo
