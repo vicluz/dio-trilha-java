@@ -1,0 +1,3 @@
+[submodule "desafio-conta-banco"]
+	path = desafio-conta-banco
+	url = https://github.com/vicluz/dio-trilha-java.git
